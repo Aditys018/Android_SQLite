@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:background="@color/black"
+    android:background="#5b9179"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -15,6 +15,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="356dp"
         android:text="SUBMIT"
+        android:backgroundTint="#224e5a"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
@@ -26,6 +27,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="424dp"
         android:text="VIEW"
+        android:backgroundTint="#224e5a"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
